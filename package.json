@@ -1,9 +1,12 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "aes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "run": "node index.js",
+    "build": "echo 'Build process not defined yet'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "private": true
